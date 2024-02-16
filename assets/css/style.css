@@ -1,0 +1,35 @@
+/* Css Reset  */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+
+}
+  
+.logo{
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(243, 255, 251);
+    backface-visibility: hidden;
+}
+.logoimg{
+        width: 70px;
+        height: 60px;
+}
+
+.fa-youtube{
+    font-size: 50px;
+    color: red;
+}
+
+
+
+
+
+
+
+@media screen  {
+    
+}
